@@ -1,4 +1,3 @@
-# eventhub
-Hub for current tango events including festivals, marathons, milongas and presentations
-
+# planet
+archiving planet-tango and its related content
 
